@@ -1,0 +1,12 @@
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\obj\Debug\WCF Adnan.csprojAssemblyReference.cache
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\obj\Debug\WCF Adnan.csproj.CoreCompileInputs.cache
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\bin\WCF Adnan.dll.config
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\bin\WCF Adnan.dll
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\bin\WCF Adnan.pdb
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\bin\EntityFramework.dll
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\bin\EntityFramework.SqlServer.dll
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\bin\EntityFramework.xml
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\bin\EntityFramework.SqlServer.xml
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\obj\Debug\WCF Adnan.csproj.CopyComplete
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\obj\Debug\WCF Adnan.dll
+D:\Khalid Adnan\WCF Adnan\WCF Adnan\obj\Debug\WCF Adnan.pdb
